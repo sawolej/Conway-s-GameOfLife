@@ -9,6 +9,4 @@ GAME RULES
 
 A dead cell with exactly three neighbors revives on the next turn. A living cell surrounded by two or three neighbors remains alive, in the case of a different number of living cells surrounding it, it is considered dead (from loneliness or overpopulation).
 
-USE
-
 The game takes input in the form of right / left clicks. Pressing the right mouse button triggers the next game turn, and the left mouse button closes it. The application receives the command to execute the next round by analyzing the location of cells and modifies them accordingly, and then displays the new location.
